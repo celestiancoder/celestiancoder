@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 💬 Ask me about **Next js**
-
 - 📫 How to reach me **devarchon07@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGgHOgsEuA/lofEnpIPejgqZpu6ZX1Eig/view?utm_content=DAGgHOgsEuA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04d1b845a8](https://www.canva.com/design/DAGgHOgsEuA/lofEnpIPejgqZpu6ZX1Eig/view?utm_content=DAGgHOgsEuA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04d1b845a8)
